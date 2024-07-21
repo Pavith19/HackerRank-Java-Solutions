@@ -3,7 +3,7 @@
 
 
 
-# [JAVA](https://www.hackerrank.com/domains/java)
+# [JAVA](https://www.hackerrank.com/domains/)
 | Subdomain    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
 | ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
 |  Introduction  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)| [Solution1.java](./Java/welcome-to-java.java)    									    |							[YT Video](https://youtu.be/r268lvNP5OU)							       |
