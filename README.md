@@ -31,12 +31,7 @@ hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 d
 
 -----------------------------
 
-### Contents
-* [JAVA](#java)
-* [ALGORITHMS](#algorithms)
-* [DATA STRUCTURES](#data-structures)
-* [IMPLEMENTATION](#implementation)
-* [LEARNING RESOURCES](#learning-resources)
+
 
 
 # [JAVA](https://www.hackerrank.com/domains/java)
