@@ -1,3 +1,7 @@
+<!--
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-->
 
 [![GitHub Written in](https://img.shields.io/badge/Written%20in-Java-blue)](https://shields.io/)&nbsp;&nbsp;&nbsp;
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-Java-Solutions)](https://github.com/Pavith19/HackerRank-Java-Solutions/commits/main)&nbsp;&nbsp;&nbsp;
