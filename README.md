@@ -112,6 +112,22 @@ Welcome to the HackerRank Java Solutions repository! This collection showcases m
 | [Java Method Overriding 2 (Super Keyword)](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword).java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword).java) |
 | [Java Method Overriding](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Method%20Overriding.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Method%20Overriding.java) |
 
+### Strings 
+
+| Challenge | Solution | 
+| ---- | ---- | 
+| [Java Anagrams](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Anagrams.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Anagrams.java) |
+| [Java Regex 2 - Duplicate Words](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Regex%202%20-%20Duplicate%20Words.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Regex%202%20-%20Duplicate%20Words.java) |
+| [Java Regex](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Regex.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Regex.java) |
+| [Java String Tokens](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20String%20Tokens.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20String%20Tokens.java) |
+| [Java Strings Introduction](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Strings%20Introduction.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Strings%20Introduction.java) |
+| [Java Substring Comparisons](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Substring%20Comparisons.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Substring%20Comparisons.java) |
+| [Java Substring](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Substring.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Java%20Substring.java) |
+| [Pattern Syntax Checker](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Pattern%20Syntax%20Checker.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Pattern%20Syntax%20Checker.java) |
+| [Tag Content Extractor](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Tag%20Content%20Extractor.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Tag%20Content%20Extractor.java) |
+| [Valid Username Regular Expression](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Valid%20Username%20Regular%20Expression.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Strings/Valid%20Username%20Regular%20Expression.java) |
+
+
 
 
 
