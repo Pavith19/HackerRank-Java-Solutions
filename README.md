@@ -99,6 +99,20 @@ Welcome to the HackerRank Java Solutions repository! This collection showcases m
 | [Java Stdin and Stdout II](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Stdin%20and%20Stdout%20II.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Stdin%20and%20Stdout%20II.java) |
 | [Welcome to Java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Welcome%20to%20Java.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Welcome%20to%20Java.java) |
 
+### Object Oriented Programming 
+
+| Challenge | Solution | 
+| ---- | ---- | 
+| [Java Abstract Class](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Abstract%20Class.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Abstract%20Class.java) |
+| [Java Inheritance I](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Inheritance%20I.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Inheritance%20I.java) |
+| [Java Inheritance II](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Inheritance%20II.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Inheritance%20II.java) |
+| [Java Instanceof Keyword](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Instanceof%20keyword.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Instanceof%20keyword.java) |
+| [Java Interface](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Interface.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Interface.java) |
+| [Java Iterator](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Iterator.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Iterator.java) |
+| [Java Method Overriding 2 (Super Keyword)](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword).java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Method%20Overriding%202%20(Super%20Keyword).java) |
+| [Java Method Overriding](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Method%20Overriding.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Object%20Oriented%20Programming/Java%20Method%20Overriding.java) |
+
+
 
 
 
