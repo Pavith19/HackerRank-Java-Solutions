@@ -1,4 +1,9 @@
 
+[![GitHub Written in](https://img.shields.io/badge/Written%20in-Java-blue)](https://shields.io/)&nbsp;&nbsp;&nbsp;
+[![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/HackerRank-Java-Solutions)](https://github.com/Pavith19/HackerRank-Java-Solutions/commits/main)&nbsp;&nbsp;&nbsp;
+[![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/HackerRank-Java-Solutions)](https://github.com/Pavith19/HackerRank-Java-Solutions/archive/main.zip)&nbsp;&nbsp;&nbsp;
+![ViewCount](https://views.whatilearened.today/views/github/Pavith19/HackerRank-Java-Solutions.svg?cache=remove)
+
 # HackerRank Java Solutions
 
 <p align="center">  
