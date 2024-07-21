@@ -1,6 +1,6 @@
 /* *
-* Author: Tonmoy Mondal
-* URL: https://qinetique.github.io
+* Author: Pavith Bambaravanage
+* URL: https://github.com/Pavith19
 * */
 
 /*JAVA-08*/
