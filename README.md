@@ -74,6 +74,14 @@ Welcome to the HackerRank Java Solutions repository! This collection showcases m
 | [Java Stack](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Stack.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Stack.java) |
 | [Java Subarray](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Subarray.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Subarray.java) |
 
+### Exception Handling 
+
+| Challenge | Solution | 
+| ---- | ---- | 
+| [Java Exception Handling (Try-catch)](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Exception%20Handling/Java%20Exception%20Handling%20(Try-catch).java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Exception%20Handling/Java%20Exception%20Handling%20(Try-catch).java) |
+| [Java Exception Handling](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Exception%20Handling/Java%20Exception%20Handling.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Exception%20Handling/Java%20Exception%20Handling.java) |
+
+
 
 
 
