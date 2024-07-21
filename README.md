@@ -1,29 +1,9 @@
-# HackerRank Solutions
+# HackerRank Solution
 
 
 
 
-
-
-[![Everything Is AWESOME](https://github.com/codedecks-in/HackerRank-Solutions/blob/master/codedecks.jpg)](https://www.youtube.com/c/codedecks?sub_confirmation=1 "Everything Is AWESOME")
-
-- ### This project include solutions of the problem from hackerrank which will be helpful for coding interview preparation. This project is work in progress, we are uploading solutions as soon as new video is releasing in our youtube channel [codedecks](https://www.youtube.com/c/codedecks?sub_confirmation=1)
-- ### Don't forget to give us a 🌟 to support us to make this helpful for people preparing for coding competitions and doing interview preparations.
-
-----------------------------
-Welcome geeks !!!
-<br>
-
-Are you looking for anyone of these things ?
-
-hackerrank solutions java GitHub | hackerrank tutorial in java | hackerrank 30 days of code solutions | hackerrank algorithms solutions | hackerrank cracking the coding interview solutions | hackerrank general programming solutions | hackerrank implementation solutions | hackerrank data structures solutions in java | hackerrank algorithm solution in java | hackerrank challenges solutions | hackerrank practices solutions | hackerrank coding challenges solutions | hackerrank questions | hackerrank problems | how to solve hackerrank practice problem in java | problem solving | coding interview | coding | programming | codedecks | codedecks compete
-
------------------------------
-
-
-
-
-# [JAVA](https://www.hackerrank.com/domains/java)
+# [JAVA]
 | Subdomain    | Description/Title                                                                | Solution                                                                         | Video Explaination      |
 | ---- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----------------- |
 |  Introduction  | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)| [Solution1.java](./Java/welcome-to-java.java)    									    |							[YT Video](https://youtu.be/r268lvNP5OU)							       |
