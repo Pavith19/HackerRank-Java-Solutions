@@ -17,7 +17,7 @@
 
 ## [Description]()
 
-Welcome to the HackerRank Java Solutions repository! This collection showcases my solutions to various HackerRank challenges, implemented in Java. If you're stuck on any of the challenges, feel free to check this repository for guidance and solutions.
+Welcome to the HackerRank Java Solutions repository! Here you'll find my solutions to various HackerRank Java practice questions, organized by categories. If you're stuck on any of the challenges, feel free to check this repository for guidance and solutions.
 
 ## [Personal HackerRank Profile]()
 
