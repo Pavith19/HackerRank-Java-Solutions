@@ -81,6 +81,25 @@ Welcome to the HackerRank Java Solutions repository! This collection showcases m
 | [Java Exception Handling (Try-catch)](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Exception%20Handling/Java%20Exception%20Handling%20(Try-catch).java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Exception%20Handling/Java%20Exception%20Handling%20(Try-catch).java) |
 | [Java Exception Handling](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Exception%20Handling/Java%20Exception%20Handling.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Exception%20Handling/Java%20Exception%20Handling.java) |
 
+### Introduction 
+
+| Challenge | Solution | 
+| ---- | ---- | 
+| [Java Stdin and Stdout I](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/%20Java%20Stdin%20and%20Stdout%20I.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/%20Java%20Stdin%20and%20Stdout%20I.java) |
+| [Java Currency Formatter](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Currency%20Formatter.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Currency%20Formatter.java) |
+| [Java Datatypes](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Datatypes.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Datatypes.java) |
+| [Java Date and Time](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Date%20and%20Time.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Date%20and%20Time.java) |
+| [Java End-of-file](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20End-of-file.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20End-of-file.java) |
+| [Java If-Else](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20If-Else.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20If-Else.java) |
+| [Java Int to String](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Int%20to%20String.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Int%20to%20String.java) |
+| [Java Loops I](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Loops%20I.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Loops%20I.java) |
+| [Java Loops II](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Loops%20II.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Loops%20II.java) |
+| [Java Output Formatting](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Output%20Formatting.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Output%20Formatting.java) |
+| [Java Static Initializer Block](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Static%20Initializer%20Block.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Static%20Initializer%20Block.java) |
+| [Java Stdin and Stdout II](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Stdin%20and%20Stdout%20II.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Java%20Stdin%20and%20Stdout%20II.java) |
+| [Welcome to Java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Welcome%20to%20Java.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Introduction/Welcome%20to%20Java.java) |
+
+
 
 
 
