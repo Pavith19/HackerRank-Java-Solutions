@@ -47,4 +47,13 @@ Welcome to the HackerRank Java Solutions repository! This collection showcases m
 | [Java Visitor Pattern](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Advanced/Java%20Visitor%20Pattern.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Advanced/Java%20Visitor%20Pattern.java) |
 | [Prime Checker](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Advanced/Prime%20Checker.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Advanced/Prime%20Checker.java) |
 
+### BigNumber Solutions
+
+| Challenge | Solution | 
+| ---- | ---- | 
+| [Java BigDecimal](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20BigDecimal.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20BigDecimal.java) |
+| [Java BigInteger](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20BigInteger.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20BigInteger.java) |
+| [Java Primality Test](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20Primality%20Test.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20Primality%20Test.java) |
+
+
 
