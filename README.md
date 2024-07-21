@@ -30,7 +30,7 @@ Welcome to the HackerRank Java Solutions repository! Here you'll find my solutio
 
 ## [Domains]()
 
-### 1. Advanced 
+### Advanced 
 
 | Challenge | Solution | 
 | ---- | ---- | 
