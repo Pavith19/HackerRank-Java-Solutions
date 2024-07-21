@@ -47,13 +47,33 @@ Welcome to the HackerRank Java Solutions repository! This collection showcases m
 | [Java Visitor Pattern](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Advanced/Java%20Visitor%20Pattern.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Advanced/Java%20Visitor%20Pattern.java) |
 | [Prime Checker](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Advanced/Prime%20Checker.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Advanced/Prime%20Checker.java) |
 
-### BigNumber Solutions
+### BigNumber 
 
 | Challenge | Solution | 
 | ---- | ---- | 
 | [Java BigDecimal](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20BigDecimal.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20BigDecimal.java) |
 | [Java BigInteger](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20BigInteger.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20BigInteger.java) |
 | [Java Primality Test](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20Primality%20Test.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/BigNumber/Java%20Primality%20Test.java) |
+
+### Data Structures 
+
+| Challenge | Solution | 
+| ---- | ---- | 
+| [Java 1D Array (Part 2)](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%201D%20Array%20(Part%202).java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%201D%20Array%20(Part%202).java) |
+| [Java 1D Array](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%201D%20Array.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%201D%20Array.java) |
+| [Java 2D Array](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%202D%20Array.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%202D%20Array.java) |
+| [Java ArrayList](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20ArrayList.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20ArrayList.java) |
+| [Java BitSet](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20BitSet.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20BitSet.java) |
+| [Java Dequeue](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Dequeue.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Dequeue.java) |
+| [Java Generics](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Generics.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Generics.java) |
+| [Java Hashset](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Hashset.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Hashset.java) |
+| [Java List](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20List.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20List.java) |
+| [Java Map](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Map.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Map.java) |
+| [Java Priority Queue](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Priority%20Queue.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Priority%20Queue.java) |
+| [Java Sort](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Sort.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Sort.java) |
+| [Java Stack](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Stack.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Stack.java) |
+| [Java Subarray](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Subarray.java) | [Solution.java](https://github.com/Pavith19/HackerRank-Java-Solutions/blob/main/Data%20Structures/Java%20Subarray.java) |
+
 
 
 
