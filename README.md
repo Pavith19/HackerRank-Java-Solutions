@@ -23,7 +23,7 @@ Welcome to the HackerRank Java Solutions repository! This collection showcases m
 
 [View Profile](https://www.hackerrank.com/profile/Pavith_DB)
 
-## [HackerRank 30 Days of Code Badge]()
+## [HackerRank Java Badge]()
 
 <a href="https://www.hackerrank.com/profile/Pavith_DB">
 <img alt="30 Days of Code" src="Badge/java_5_star.png" width=100></a>
